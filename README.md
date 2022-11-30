@@ -1,0 +1,1 @@
+# Read_text_from_a_picture_and_write_it_to_a_file
